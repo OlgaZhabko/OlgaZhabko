@@ -3,7 +3,7 @@
 ## I am currently a junior Python developer
 
 ### Languages and Tools:
-- ![Python](https://img.shields.io/badge/logo-python-blue?logo=python&logoColor=#E0FFFF)
+- ![Python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=#E0FFFF)
 - SQL
 - HTML5
 - CSS
