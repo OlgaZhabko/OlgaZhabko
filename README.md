@@ -1,16 +1,17 @@
-### Hi there 👋
-
+<h1 align="center"> Hi there, my dear visitor 👋, I am Olga </h1>
 <!--
 **OlgaZhabko/OlgaZhabko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am currently a junior Python developer :
 
-Here are some ideas to get you started:
+### Languages and Tools:
+![Python](https://img.shields.io/badge/logo-python-blue?logo=python&logoColor=#E0FFFF)
+SQL
+HTML5
+CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbies:
+voleyball
+hiking
+cycling
+history
+rock music
